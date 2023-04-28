@@ -2,8 +2,8 @@
 *.iml
 * out
 * target
-* gitignore
-* misc.xml
-* moduels.xml
-* vcs.xml
+/workspace.xml/
+/misc.xml/
+/modules.xml/
+/vcs.xml
 
