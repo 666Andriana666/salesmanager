@@ -2,8 +2,8 @@
 *.iml
 * out
 * target
-/workspace.xml/
-/misc.xml/
-/modules.xml/
+/workspace.xml
+/misc.xml
+/modules.xml
 /vcs.xml
 
